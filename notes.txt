@@ -1,0 +1,2 @@
+fg = field goales;
+ft = free throws;
